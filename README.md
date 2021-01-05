@@ -1,2 +1,2 @@
 # Discord-Token-Generator
-dasdddas
+Just Open Discord Token Generator.py And Type How Many Tokens You Want  and wait 
